@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remotingHost", "remotingHost\remotingHost.csproj", "{946C01D6-5565-46C0-A1A0-8DB60FE758BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fileSystem", "fileSystem\fileSystem.csproj", "{D34F8609-1337-40E0-8925-D572560F5116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{946C01D6-5565-46C0-A1A0-8DB60FE758BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946C01D6-5565-46C0-A1A0-8DB60FE758BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946C01D6-5565-46C0-A1A0-8DB60FE758BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946C01D6-5565-46C0-A1A0-8DB60FE758BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34F8609-1337-40E0-8925-D572560F5116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34F8609-1337-40E0-8925-D572560F5116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34F8609-1337-40E0-8925-D572560F5116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34F8609-1337-40E0-8925-D572560F5116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

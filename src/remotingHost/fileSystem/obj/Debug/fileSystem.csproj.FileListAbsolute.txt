@@ -1,0 +1,5 @@
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\remotingHost\fileSystem\bin\Debug\fileSystem.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\remotingHost\fileSystem\bin\Debug\fileSystem.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\remotingHost\fileSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\remotingHost\fileSystem\obj\Debug\fileSystem.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\remotingHost\fileSystem\obj\Debug\fileSystem.pdb

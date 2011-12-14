@@ -1,0 +1,9 @@
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\remotingHost\remotingHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\remotingHost\remotingHost\bin\Debug\remotingHost.exe
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\remotingHost\remotingHost\bin\Debug\remotingHost.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\remotingHost\remotingHost\bin\Debug\fileSystem.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\remotingHost\remotingHost\bin\Debug\fileSystem.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\remotingHost\remotingHost\obj\Debug\remotingHost.exe
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\remotingHost\remotingHost\obj\Debug\remotingHost.pdb
+I:\Projekt\remotingHost\remotingHost\obj\Debug\remotingHost.exe
+I:\Projekt\remotingHost\remotingHost\obj\Debug\remotingHost.pdb
