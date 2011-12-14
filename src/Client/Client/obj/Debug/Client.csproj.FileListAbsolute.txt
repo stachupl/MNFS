@@ -1,0 +1,15 @@
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\Client\Client\bin\Debug\Client.exe
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\Client\Client\bin\Debug\Client.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\Client\Client\bin\Debug\fileSystem.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\Client\Client\bin\Debug\nameServerClass.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\Client\Client\bin\Debug\FileTree.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\Client\Client\bin\Debug\serializationNameServer.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\Client\Client\bin\Debug\FileTree.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\Client\Client\bin\Debug\fileSystem.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\Client\Client\bin\Debug\nameServerClass.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\Client\Client\bin\Debug\serializationNameServer.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\Client\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\Client\Client\obj\Debug\Client.exe
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\Client\Client\obj\Debug\Client.pdb
+C:\Users\TEDZIK\MNFS\src\Client\Client\obj\Debug\Client.exe
+C:\Users\TEDZIK\MNFS\src\Client\Client\obj\Debug\Client.pdb
