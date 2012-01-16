@@ -1,0 +1,14 @@
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\serializationNameServer\bin\Debug\serializationNameServer.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\serializationNameServer\bin\Debug\serializationNameServer.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\serializationNameServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\serializationNameServer\obj\Debug\serializationNameServer.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\serializationNameServer\obj\Debug\serializationNameServer.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\serializationNameServer\bin\Debug\FileTree.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\serializationNameServer\bin\Debug\FileTree.pdb
+C:\Users\TEDZIK\Desktop\NameServer\serializationNameServer\bin\Debug\serializationNameServer.dll
+C:\Users\TEDZIK\Desktop\NameServer\serializationNameServer\bin\Debug\serializationNameServer.pdb
+C:\Users\TEDZIK\Desktop\NameServer\serializationNameServer\bin\Debug\FileTree.dll
+C:\Users\TEDZIK\Desktop\NameServer\serializationNameServer\bin\Debug\FileTree.pdb
+C:\Users\TEDZIK\Desktop\NameServer\serializationNameServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TEDZIK\Desktop\NameServer\serializationNameServer\obj\Debug\serializationNameServer.dll
+C:\Users\TEDZIK\Desktop\NameServer\serializationNameServer\obj\Debug\serializationNameServer.pdb

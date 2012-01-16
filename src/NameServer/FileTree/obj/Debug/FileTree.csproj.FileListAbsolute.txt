@@ -1,0 +1,10 @@
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileTree\bin\Debug\FileTree.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileTree\bin\Debug\FileTree.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileTree\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileTree\obj\Debug\FileTree.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileTree\obj\Debug\FileTree.pdb
+C:\Users\TEDZIK\Desktop\NameServer\FileTree\bin\Debug\FileTree.dll
+C:\Users\TEDZIK\Desktop\NameServer\FileTree\bin\Debug\FileTree.pdb
+C:\Users\TEDZIK\Desktop\NameServer\FileTree\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TEDZIK\Desktop\NameServer\FileTree\obj\Debug\FileTree.dll
+C:\Users\TEDZIK\Desktop\NameServer\FileTree\obj\Debug\FileTree.pdb

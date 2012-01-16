@@ -1,0 +1,26 @@
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileServerRemoteHost\bin\Debug\FileServerRemoteHost.exe
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileServerRemoteHost\bin\Debug\FileServerRemoteHost.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileServerRemoteHost\bin\Debug\nameServerClass.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileServerRemoteHost\bin\Debug\fileSystem.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileServerRemoteHost\bin\Debug\FileTree.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileServerRemoteHost\bin\Debug\serializationNameServer.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileServerRemoteHost\bin\Debug\fileSystem.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileServerRemoteHost\bin\Debug\FileTree.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileServerRemoteHost\bin\Debug\nameServerClass.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileServerRemoteHost\bin\Debug\serializationNameServer.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileServerRemoteHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileServerRemoteHost\obj\Debug\FileServerRemoteHost.exe
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\FileServerRemoteHost\obj\Debug\FileServerRemoteHost.pdb
+C:\Users\TEDZIK\Desktop\NameServer\FileServerRemoteHost\obj\Debug\FileServerRemoteHost.exe
+C:\Users\TEDZIK\Desktop\NameServer\FileServerRemoteHost\obj\Debug\FileServerRemoteHost.pdb
+C:\Users\TEDZIK\Desktop\NameServer\FileServerRemoteHost\bin\Debug\FileServerRemoteHost.exe
+C:\Users\TEDZIK\Desktop\NameServer\FileServerRemoteHost\bin\Debug\FileServerRemoteHost.pdb
+C:\Users\TEDZIK\Desktop\NameServer\FileServerRemoteHost\bin\Debug\nameServerClass.dll
+C:\Users\TEDZIK\Desktop\NameServer\FileServerRemoteHost\bin\Debug\fileSystem.dll
+C:\Users\TEDZIK\Desktop\NameServer\FileServerRemoteHost\bin\Debug\FileTree.dll
+C:\Users\TEDZIK\Desktop\NameServer\FileServerRemoteHost\bin\Debug\serializationNameServer.dll
+C:\Users\TEDZIK\Desktop\NameServer\FileServerRemoteHost\bin\Debug\fileSystem.pdb
+C:\Users\TEDZIK\Desktop\NameServer\FileServerRemoteHost\bin\Debug\FileTree.pdb
+C:\Users\TEDZIK\Desktop\NameServer\FileServerRemoteHost\bin\Debug\nameServerClass.pdb
+C:\Users\TEDZIK\Desktop\NameServer\FileServerRemoteHost\bin\Debug\serializationNameServer.pdb
+C:\Users\TEDZIK\Desktop\NameServer\FileServerRemoteHost\obj\Debug\ResolveAssemblyReference.cache

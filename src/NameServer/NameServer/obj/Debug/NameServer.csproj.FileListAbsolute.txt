@@ -1,0 +1,9 @@
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\NameServer\bin\Debug\NameServer.exe
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\NameServer\bin\Debug\NameServer.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\NameServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\NameServer\obj\Debug\NameServer.exe
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\NameServer\obj\Debug\NameServer.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\NameServer\bin\Debug\fileSystem.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\NameServer\bin\Debug\fileSystem.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\NameServer\bin\Debug\FileTree.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\NameServer\bin\Debug\FileTree.pdb

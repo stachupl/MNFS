@@ -1,0 +1,22 @@
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\nameServerClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\nameServerClass\bin\Debug\nameServerClass.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\nameServerClass\bin\Debug\nameServerClass.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\nameServerClass\bin\Debug\fileSystem.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\nameServerClass\bin\Debug\FileTree.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\nameServerClass\bin\Debug\serializationNameServer.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\nameServerClass\bin\Debug\FileTree.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\nameServerClass\bin\Debug\fileSystem.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\nameServerClass\bin\Debug\serializationNameServer.pdb
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\nameServerClass\obj\Debug\nameServerClass.dll
+C:\Users\TEDZIK\Documents\Visual Studio 2008\Projects\NameServer\nameServerClass\obj\Debug\nameServerClass.pdb
+C:\Users\TEDZIK\Desktop\NameServer\nameServerClass\bin\Debug\nameServerClass.dll
+C:\Users\TEDZIK\Desktop\NameServer\nameServerClass\bin\Debug\nameServerClass.pdb
+C:\Users\TEDZIK\Desktop\NameServer\nameServerClass\bin\Debug\fileSystem.dll
+C:\Users\TEDZIK\Desktop\NameServer\nameServerClass\bin\Debug\FileTree.dll
+C:\Users\TEDZIK\Desktop\NameServer\nameServerClass\bin\Debug\serializationNameServer.dll
+C:\Users\TEDZIK\Desktop\NameServer\nameServerClass\bin\Debug\FileTree.pdb
+C:\Users\TEDZIK\Desktop\NameServer\nameServerClass\bin\Debug\fileSystem.pdb
+C:\Users\TEDZIK\Desktop\NameServer\nameServerClass\bin\Debug\serializationNameServer.pdb
+C:\Users\TEDZIK\Desktop\NameServer\nameServerClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TEDZIK\Desktop\NameServer\nameServerClass\obj\Debug\nameServerClass.dll
+C:\Users\TEDZIK\Desktop\NameServer\nameServerClass\obj\Debug\nameServerClass.pdb
